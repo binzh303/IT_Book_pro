@@ -197,19 +197,19 @@
 
 - Effective Java（中英版）   [百度云下载链接](https://pan.baidu.com/s/17dAjk4l8MRetCDKkyxs80g)   密码：l1w4
 - Head First Java (中文高清版)   [百度云下载链接](https://pan.baidu.com/s/1iAmlEfR4PdBnhhnJTpVdMw)   密码：tglw
-- Java 8 实战   [百度云下载链接](https://pan.baidu.com/s/11Uu0tYkn8rSRdFVCnLTNew)   密码：hdpt
+- Java 8 实战   [百度云下载链接](链接: 链接: https://pan.baidu.com/s/1gLSLIU-duroL96NITV4f-g)   密码：dss7
 - Java 并发编程实战   [百度云下载链接](https://pan.baidu.com/s/1JJUj17WA1aJthlLpLnrchQ)   密码：dbvj
-- Java并发编程的艺术   [百度云下载链接](https://pan.baidu.com/s/1K8m9ED1eqJDknBM5tUcjww)   密码：xd2i
+- Java并发编程的艺术   [百度云下载链接](链接: 链接: https://pan.baidu.com/s/11rVcrYtq5HxdJ6ecSzBePw)   密码：srwi
 - Java并发编程之美   [百度云下载链接](https://pan.baidu.com/s/1VKOruuMzCRNHbyJx7-QToQ)   密码：ce9w
-- Java程序性能优化  让你的Java程序更快、更稳定   [百度云下载链接](https://pan.baidu.com/s/17g09rGw2D9OZDV4yBiePGg)   密码：rt3p
+- Java程序性能优化  让你的Java程序更快、更稳定   [百度云下载链接](链接: https://pan.baidu.com/s/18nHxYk3s6U9OJ0Mq4PDDZQ)   密码：vinq
 - Java程序员修炼之道   [百度云下载链接](https://pan.baidu.com/s/1uOsmYFD6GTC65IL-ujoR7A)   密码：1od2
 - Java从入门到精通   [百度云下载链接](https://pan.baidu.com/s/1QTnfRok2hhs7RmUR16axXw)   密码：mavl
-- Java多线程编程实战指南  核心篇   [百度云下载链接](https://pan.baidu.com/s/1S--5N4a-xF8KOA-slrtg1Q)   密码：mml9
+- Java多线程编程实战指南  核心篇   [百度云下载链接](链接: https://pan.baidu.com/s/1whdF34w6tcwFNbeJ1Pso5Q)   密码：8ktf
 - Java核心技术卷第10版   [百度云下载链接](https://pan.baidu.com/s/1ykvPLAkafrkigIkgTz0PBA)   密码：4dm7
 - Java开发手册(嵩山版)   [百度云下载链接](https://pan.baidu.com/s/1OZzZ2YlHqsn_O6VzgJC0Lw)   密码：encc
 - Java趣味编程100例  [百度云下载链接](https://pan.baidu.com/s/1ysdlzKHOXpQ6xnZW7GMpzA)   密码：jqr9
 - Java入门123  [百度云下载链接](https://pan.baidu.com/s/1TmTyUP-6Z06-Ec-A-AAuvg)   密码：k9di
-- JAVA网络编程 (第4版)  [百度云下载链接](链接: https://pan.baidu.com/s/1dNWBlYtCko5bvSG3oFeyfw)   密码：xtmf
+- JAVA网络编程 (第4版)  [百度云下载链接](链接: 链接: https://pan.baidu.com/s/19nNYrpgUPaaG2u23qcNORA)   密码：aa2t
 - Java性能权威指南  [百度云下载链接](https://pan.baidu.com/s/1QjLl61aVeL94rtH4Am-zYA)   密码：c5ht
 - Java自学宝典  [百度云下载链接](https://pan.baidu.com/s/17_z0-0wxhtuwbt3GKUAp4w)   密码：eh2w
 - Maven实战  [百度云下载链接](https://pan.baidu.com/s/19ye84-E9t1TfAJvTe5ZHVQ)   密码：1d0d
@@ -232,7 +232,7 @@
 - 分布式系统原理与范型  [百度云下载链接](https://pan.baidu.com/s/11C9f2TiEmvxQn0IgDt3Ohg)   密码：1idb
 - 疯狂JAVA讲义 (第2版)    [百度云下载链接](https://pan.baidu.com/s/1SEN0EZRw9u1CM3xQ7f44Hw)   密码：dqt7
 - 高性能高并发服务器架构  [百度云下载链接](https://pan.baidu.com/s/1PCvfljct2cyPz40DaNNnMQ)   密码：csb3
-- 架构之美(清晰中文完整版)  [百度云下载链接](https://pan.baidu.com/s/18tkPsY41ro6kAMzozwf5_Q)   密码：7sw3
+- 架构之美(清晰中文完整版)  [百度云下载链接](链接: https://pan.baidu.com/s/18PYMlUxaF8XTlF6ALYXASg)   密码：f7n7
 - 精通Java并发编程（第2版）  [百度云下载链接](https://pan.baidu.com/s/1t8pJCYlyMshGMitg7MgY9g)   密码：8gui
 - 深入理解 Java 虚拟机总结  [百度云下载链接](https://pan.baidu.com/s/1nY-gsODALRMbvMHhpPMfJQ)   密码：uez5
 - 深入理解Java虚拟机（第二版）  [百度云下载链接](https://pan.baidu.com/s/1TlSavwwnScdfEOKTORKfmw)   密码：5u3f
