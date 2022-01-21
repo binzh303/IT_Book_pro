@@ -129,7 +129,7 @@
 # 数据库
 
 - MongoDB权威指南   [百度云下载链接](https://pan.baidu.com/s/1ImvToDRn-BaGPYDGBMu9lg)   密码：1kuz
-- MONGODB实战  第2版   [百度云下载链接](https://pan.baidu.com/s/1kLpCZNlbGMp_CKONxyu-tA)   密码：n4hk
+- MONGODB实战  第2版   [百度云下载链接](https://pan.baidu.com/s/1LcaG_8-CkNqVELMlbdNU-Q)   密码：usk8
 - MySQL必知必会   [百度云下载链接](https://pan.baidu.com/s/1jT4Euka2R6huc2MdptIctA)   密码：hjbi
 - MySQL性能优化的21个最佳实践   [百度云下载链接](https://pan.baidu.com/s/17DUnPh2ihwxa173GH58upw)   密码：2pjq
 - NoSQL精粹(中文完整版)   [百度云下载链接](https://pan.baidu.com/s/1aoUtRvy6sD5K_Pz1Vc_0Uw)   密码：9a26
