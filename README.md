@@ -250,20 +250,20 @@
 - Django中文教程   [百度云下载链接](https://pan.baidu.com/s/11k43GO_sXfInAmpUlK1ijQ)   密码：jt3m
 - Flask Web开发基于Python的Web应用开发实战   [百度云下载链接](https://pan.baidu.com/s/11FuQEiTOvnBu4zPAVyOFsA)   密码：gwd7
 - Head First Python   [百度云下载链接](https://pan.baidu.com/s/1HXrwWGFisJomTGbcVrvUJg)   密码：nffu
-- PyQt 5快速开发与实战   [百度云下载链接](https://pan.baidu.com/s/1bkwL08I2aBI_byPSL8btlw)   密码：3gdq
+- PyQt 5快速开发与实战   [百度云下载链接](https://pan.baidu.com/s/1djZrBX60coTXrdE6FeRGQg)   密码：b9yr
 - Python Cookbook (中文版第 3 版)   [百度云下载链接](https://pan.baidu.com/s/1sribtWrUxW3eq5mu6X81oQ)   密码：7ddt
 - Python Qt GUI快速编程PyQt编程指南   [百度云下载链接](https://pan.baidu.com/s/189gy5o5aUJpF3UsslyRTow)   密码：gec8
 - Python Web开发实战   [百度云下载链接](https://pan.baidu.com/s/1VQCL4pURkVb4zm81BwG10w)   密码：x9m2
 - Python 核心编程(中文版 第二版)   [百度云下载链接](https://pan.baidu.com/s/17TOjhK2OHiJ6QrmAgDgKiQ)   密码：34wm
-- Python 学习笔记 (第二版)   [百度云下载链接](https://pan.baidu.com/s/1S52nBebRNAltXtArcd1ibA)   密码：cji1
+- Python 学习笔记 (第二版)   [百度云下载链接](https://pan.baidu.com/s/1qFihV6R0ZpjDLlT1hWHweg)   密码：50jw
 - Python_Web开发测试驱动方法   [百度云下载链接](https://pan.baidu.com/s/17ZiukpjKAhNxuIZE3wmm5Q)   密码：d5hn
 - Python3 基础语法   [百度云下载链接](https://pan.baidu.com/s/1CCLnmnblEkDJyL6CT0KwNg)   密码：9i33
 - Python3 正则表达式   [百度云下载链接](https://pan.baidu.com/s/1k52d_Tl1hWDSs78vju4ISQ)   密码：3hx2
-- Python3程序开发指南(第二版)   [百度云下载链接](https://pan.baidu.com/s/1USQkfPout7uAym8bcto3Iw)   密码：bhfe
-- Python100道经典练习题   [百度云下载链接](https://pan.baidu.com/s/1PZy_FHV10HWwwYmwbkxRcw)   密码：xvwq
-- Python编程从入门到实践   [百度云下载链接](https://pan.baidu.com/s/1GEo8H6o2wT5ZbWkrZ85olw)   密码：ef50
+- Python3程序开发指南(第二版)   [百度云下载链接](https://pan.baidu.com/s/1s4nTwrWjaa4b0Tkqc6oyyg)   密码：vips
+- Python100道经典练习题   [百度云下载链接](https://pan.baidu.com/s/1TR7SZsNr86o2Ehtj0_Gvnw)   密码：1178
+- Python编程从入门到实践   [百度云下载链接](https://pan.baidu.com/s/1bRoZ1rL_KJzHhmc1z83AXw)   密码：dr67
 - Python编程快速上手-让繁琐工作自动化   [百度云下载链接](https://pan.baidu.com/s/1TyEum9Yl5-Z0n5hL1t_VsA)   密码：6ftl
-- Python编程入门经典  [百度云下载链接](https://pan.baidu.com/s/1SxvNGmvVsh1CsboSeUjGsA)   密码：rwb7
+- Python编程入门经典  [百度云下载链接](https://pan.baidu.com/s/1ASeX0DXEIIicG5NFyRPUKA)   密码：8de4
 - Python编程无师自通   [百度云下载链接](https://pan.baidu.com/s/1QmYfceP2hdP6KG3OpSCOCw)   密码：xswo
 - Python程序设计基础   [百度云下载链接](https://pan.baidu.com/s/1SPjmcFuRa-yoKf-9WjJndg)   密码：zzsg
 - Python程序员指南   [百度云下载链接](https://pan.baidu.com/s/1keLenytgNzCCYmV9gs90uw)   密码：ztm3
@@ -271,8 +271,8 @@
 - Python高级编程(第2版)   [百度云下载链接](https://pan.baidu.com/s/16EefEtSg6DhHUmow-33qeg)   密码：6woe
 - Python高级编程-姚军译   [百度云下载链接](https://pan.baidu.com/s/1CTFCD5dLiGqPGvsKobmKdA)   密码：2aa0
 - Python核心编程(第二版)   [百度云下载链接](https://pan.baidu.com/s/1nicWrZc-zBnIAdYrnHOfGg)   密码：ghov
-- Python基础教程(crossin全60课)   [百度云下载链接](https://pan.baidu.com/s/1jtQsFapq9s4pxeq11PjfvQ)   密码：ak1x
-- python基础教程(第二版)   [百度云下载链接](https://pan.baidu.com/s/1wMowF4eknxk4RfONE5pI8w)   密码：0tu0
+- Python基础教程(crossin全60课)   [百度云下载链接](https://pan.baidu.com/s/1PsYiD94Clg3OcJOE0TmujQ)   密码：a99n
+- python基础教程(第二版)   [百度云下载链接](https://pan.baidu.com/s/1e_Aphhq3P96ZI_wq2MNcoA)   密码：pz3a
 - Python开发实战   [百度云下载链接](https://pan.baidu.com/s/1FZmrSJGpAKhP1MhV8_uigg)   密码：hb9b
 - Python科学计算(第2版)   [百度云下载链接](https://pan.baidu.com/s/1CpzUSRf3uvvExz7HbEv6GA)   密码：f6k5
 - python量化交易教程   [百度云下载链接](https://pan.baidu.com/s/1jY9vQq60SUjUxYYToRtHbg)   密码：yx67
@@ -340,7 +340,7 @@
 - Go web编程   [百度云下载链接](https://pan.baidu.com/s/1s9QPrYngdW7hiUFQ7QYzMw)   密码：zb9s
 - Go并发编程实战   [百度云下载链接](https://pan.baidu.com/s/1lC-ddxyeOWnB0E4X-zG25A)   密码：yns3
 - Go语言编程   [百度云下载链接](https://pan.baidu.com/s/1MWuXfAFxK5bdZVI87l88qA)   密码：ysi9
-- Go语言标准库参考   [百度云下载链接](https://pan.baidu.com/s/1asI1NtVAEA1Q7CnfpTedYw)   密码：oowm
+- Go语言标准库参考   [百度云下载链接](https://pan.baidu.com/s/1FvTZ6k9LBnRSZZEdKJaW0g)   密码：82dp
 - Go语言程序设计   [百度云下载链接](https://pan.baidu.com/s/10JFUZqR9d_HlzZ1aF3z8Lg)   密码：che8
 - Go语言圣经   [百度云下载链接](https://pan.baidu.com/s/14wgFgCY74bZ-3KwWM7i5gg)   密码：jm76
 - Go语言实战   [百度云下载链接](https://pan.baidu.com/s/17-oPahUQxJ0nojFg-_C5zw)   密码：m3ao
